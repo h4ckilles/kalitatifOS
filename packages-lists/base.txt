@@ -1,0 +1,7 @@
+keepassxc
+simple-scan
+mat2
+ffmpeg
+htop
+seclists
+neofetch
