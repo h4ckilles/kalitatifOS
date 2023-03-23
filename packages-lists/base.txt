@@ -1,4 +1,5 @@
 keepassxc
+qbittorrent
 simple-scan
 mat2
 ffmpeg
